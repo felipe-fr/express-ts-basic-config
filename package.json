@@ -1,0 +1,10 @@
+{
+  "name": "basicConfigProject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Felipe Ribeiro <felipe.fwribeiro@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}
